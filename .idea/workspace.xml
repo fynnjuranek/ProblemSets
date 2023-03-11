@@ -5,10 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="098f75db-e48c-4519-9144-0f30c519451c" name="Changes" comment="Ein bisschen was geschafft :)">
-      <change afterPath="$PROJECT_DIR$/WordCapitalization.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bitpp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hulk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WrongSubtraction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/YetAnotherTwoIntegersProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ProblemSets/Bitpp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ProblemSets/WordCapitalization.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ProblemSets/WrongSubtraction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ProblemSets/YetAnotherTwoIntegersProblem.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ProblemSets/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProblemSets/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ProblemSets/elephant.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProblemSets/elephant.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +89,7 @@
       <option name="presentableId" value="Default" />
       <updated>1678490158682</updated>
       <workItem from="1678490160315" duration="6807000" />
-      <workItem from="1678534371323" duration="3958000" />
+      <workItem from="1678534371323" duration="11454000" />
     </task>
     <task id="LOCAL-00001" summary="Ein bisschen was geschafft :)">
       <created>1678496687375</created>
@@ -100,11 +105,29 @@
       <option name="project" value="LOCAL" />
       <updated>1678496838754</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Ein bisschen was geschafft :)">
+      <created>1678539449327</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1678539449327</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Ein bisschen was geschafft :)" />
