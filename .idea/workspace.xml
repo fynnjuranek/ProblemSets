@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="098f75db-e48c-4519-9144-0f30c519451c" name="Changes" comment="Ein bisschen was geschafft :)">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BoysOrGirls.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProblemSets.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/elephant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/watermelon.java" afterDir="false" />
-    </list>
+    <list default="true" id="098f75db-e48c-4519-9144-0f30c519451c" name="Changes" comment="Ein bisschen was geschafft :)" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,6 +39,7 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -74,8 +65,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1678490158682</updated>
-      <workItem from="1678490160315" duration="6432000" />
+      <workItem from="1678490160315" duration="6582000" />
     </task>
+    <task id="LOCAL-00001" summary="Ein bisschen was geschafft :)">
+      <created>1678496687375</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1678496687375</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
